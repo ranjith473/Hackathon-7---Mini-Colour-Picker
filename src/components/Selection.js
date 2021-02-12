@@ -15,7 +15,7 @@ const Selection = (props) => {
         console.log(setState);
       }}
     >
-      <h2 className="subheading">Selection</h2>
+      <h2 className="subheading">selection</h2>
     </div>
   );
 };
