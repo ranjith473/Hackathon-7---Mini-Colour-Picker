@@ -12,10 +12,10 @@ const Selection = (props) => {
       style={state}
       onClick={() => {
         color(setState);
-        console.log(setState);
+        console.log(state);
       }}
     >
-      <h2 className="subheading">selection</h2>
+      <h2 className="subheading">Selection</h2>
     </div>
   );
 };
